@@ -21,7 +21,6 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 - [Data Cleaning](#Data-Cleaning)
 - [Installation : ETL Tools](#Installation)
 - [My Project](#My-Project)
-- [Plots used](#Plots-used)
 - [Author](#Author)
 - [Lessons Learnt](#Lessons-Learnt)
 - [Acknowledgements](#Acknowledgements)
@@ -83,9 +82,9 @@ When we examine the Data, we observe a number of Different Columns.
 # Data Cleaning
 
 - Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
-- Changed the Data Types wherever required.
-- Removed Duplicates
-- And done some more Cleaning.
+- Changed the Data Types wherever required.📅
+- Removed Duplicates.
+- Replaced data with meaningful data etc.📝
 
 # Installation : ETL Tools
 
@@ -94,12 +93,22 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 # My Project
 
-Comprehensive Analyses has been conducted on the Dataset, illustrated through a Variety of Engaging Plots.
+Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
 ![Screenshot (90)](https://github.com/user-attachments/assets/27905920-bab3-4f5b-a2fb-c3d911216aeb)
 
+Using Custom functions in PIVOT TABLE, I have manipulated data and created this Amazing Interactive Dashboard.
 
-# Plots used
+The Operations performed are:
+- Applied Sorting and Filters📶
+- Applied necessary Functions📊
+
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
+
+
+
+
+
 
 
 
