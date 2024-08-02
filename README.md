@@ -13,7 +13,7 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 # Table of Content
 
-- [Project Goal](#🚀-Project-Goal)
+- [Project Goal](#Project-Goal)
 - [Project Motivation](#Project-Motivation)
 - [Dataset](#Dataset)
 - [Dataset Description](#Dataset-Description)
@@ -32,7 +32,7 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, encapsulating Critical Insights and Data to Illuminate the key factors influencing Road Traffic Accidents.
 
-# 🚀 Project Motivation
+# Project Motivation
 
 The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
 
