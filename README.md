@@ -43,13 +43,13 @@ The Motivation driving this project is to Utilize Advanced Data Analysis and Pre
 The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below.
 
-# Dataset Descriprion
+# Dataset Description
 
-When we Examine the Data, we Observe a number of Different Columns.
+When we examine the Data, we observe a number of Different Columns.
 
-- Accident Index = An Unique Identifier for each Reported Accident.
-- Accident Date = The Date in which the Accident occurred.
-- Day of Week = The Day in which the Accident occurred.
+- Accident Index : An Unique Identifier for each Reported Accident.
+- Accident Date : The Date in which the Accident occurred.
+- Day of Week : The Day in which the Accident occurred.
 - Junction Details = Specifics about the Junction Location.
 - Accident Severity = Degree of Impact or Harm caused by the Accident.
 - Latitude = Geographic Latitude of the Accident Location.
