@@ -105,7 +105,7 @@ The Operations performed are:
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
 
 This Illustrates the Analysis within Rural Areas📍.
-![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)
+[![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/8fabba5e25e32a19f5cbb69f3e31e69f7f53ab51/Analysis%201.png)
 
 This Illustrates the Analysis within Urban Areas📍.
 ![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)
