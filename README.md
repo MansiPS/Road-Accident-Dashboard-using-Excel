@@ -7,7 +7,7 @@
 - This Repository offers a Comprehensive Analysis of Road Accident Data. 
 - By Leveraging this Project, we can unveil Valuable Insights and make Informed Decisions.
 
-# Description
+# 📃Description
 
 Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities, presenting a critical area of Research dedicated to Traffic Accident Analysis and Predictive Techniques. By Scrutinizing the myriad factors that lead to these Tragic events, we aim to uncover the most Pivotal Contributors to Road Traffic Accidents.
 
@@ -28,11 +28,11 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 - [Technical Skills](#Technical-Skills)
 - [Show your Support](#Show-your-Support)
 
-# Project Goal
+# 🚀 Project Goal
 
 To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, encapsulating Critical Insights and Data to Illuminate the key factors influencing Road Traffic Accidents.
 
-# Project Motivation
+# 🚀 Project Motivation
 
 The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
 
@@ -42,26 +42,26 @@ The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meti
 - Kindly Access and Download the Dataset via the Link provided below
 - Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
 
-## Dataset Description
+## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Accident Index : An Unique Identifier for each Reported Accident.
+- Accident Index : An Unique Identifier for each Reported Accident.🚨
 - Accident Date : The Date in which the Accident occurred.
 - Day of Week : The Day in which the Accident occurred.
-- Junction Details : Specifics about the Junction Location.
-- Accident Severity : Degree of Impact or Harm caused by the Accident.
+- Junction Details : Specifics about the Junction Location.⚠️
+- Accident Severity : Degree of Impact or Harm caused by the Accident.🤕
 - Latitude : Geographic Latitude of the Accident Location.
-- Light Conditions : Lighting Status at the Time of the Accident.
+- Light Conditions : Lighting Status at the Time of the Accident.💥
 - Local Authority (District) : Administrative District where the Accident Occurred.
 - Carriageway Hazards : Obstacles or Dangers on the Road.
 - Longitude : Geographic Longitude of the Accident Location.
-- Number of Casualties : Total Number of Injured Individuals.
-- Number of Vehicles : Count of Vehicles Involved in the Accident.
-- Police Force : The Police Department responding to the Incident.
+- Number of Casualties : Total Number of Injured Individuals.🤕🤦‍♂️
+- Number of Vehicles : Count of Vehicles Involved in the Accident.🚘
+- Police Force : The Police Department responding to the Incident.🚓👮
 - Road Surface Conditions : Quality and State of the Road Surface.
 - Road Type : Classification of the Road.
-- Speed Limit : Maximum allowable Speed at the Accident Location.
+- Speed Limit : Maximum allowable Speed at the Accident Location.⚠️☠️🚨
 - Time : Exact Time when the Accident Occurred.
 - Urban or Rural Area : Classification of the Area where the Accident Happened.
 - Weather Conditions : Weather Conditions at the Time of the Accident.
@@ -78,19 +78,19 @@ When we examine the Data, we observe a number of Different Columns.
 - ✅ Total Casualties by Area and by Light Conditions.
 
 
-# Data Cleaning
+# 🧹 Data Cleaning ✨
 
 - Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
 - Changed the Data Types wherever required.📅
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
 
-# Installation : ETL Tools
+# ✅ Installation : ETL Tools ✅
 
 Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
 - MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
 
-# My Project
+# 🚀 My Project
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
@@ -120,12 +120,12 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 ![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)
 
 
-# Author   
+# Author 🙎‍♀️  
 
 ![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/user-attachments/assets/918f0183-1331-43d1-8de5-f074326c2cfb)
 - https://github.com/MansiPS 
 
-# Lessons Learnt
+# 📝 Lessons Learnt 
 
 - ⭐Data Quality is Crucial
 - ⭐Simplicity Enhances Usability
@@ -134,20 +134,22 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 - ⭐Consistent Formatting is Key
 - ⭐Performance Optimization Matters
 
-# Acknowledgement
+# ✍ Acknowledgement
 
 Thank you to Kaggle for providing me this Invaluable Resource, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
 - Kaggle :- https://www.kaggle.com
 
-#  🌟About Me
+#  🌟About Me 🙎‍♀️
 
 I am Passionately delving into the realm of Data Analytics, engaging in thorough Learning and Hands-on Projects to refine my skills. As I explore Career Opportunities, I am eager to Transform data into Valuable Insights and contribute to a Dynamic and Innovative Organization.
 
 ## Hi, I am Mansi! 👋
 ## 🔗Links
-https://www.linkedin.com/in/mansi-p-s-9052a0311  https://public.tableau.com/app/profile/mansi.ps/vizzes  https://github.com/MansiPS
+- 📌 LinkedIn :- https://www.linkedin.com/in/mansi-p-s-9052a0311  
+- 📌 Tableau :- https://public.tableau.com/app/profile/mansi.ps/vizzes
+- 📌 Github :- https://github.com/MansiPS
 
-# Show your Support
+☀️ # Show your Support
 
 If you appreciate this Project, please consider awarding it a ⭐
 
