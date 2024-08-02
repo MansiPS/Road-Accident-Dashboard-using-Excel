@@ -96,8 +96,6 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analyses have been conducted on the Dataset, illustrated through a Variety of Engaging Plots.
 
-![excel-microsoft-spreadsheet-computer-application-enhdz9phqfeeurhx](https://github.com/user-attachments/assets/612257a5-05fd-4669-ac82-2177b7cd44c2)
-
 ![Screenshot (90)](https://github.com/user-attachments/assets/27905920-bab3-4f5b-a2fb-c3d911216aeb)
 
 
