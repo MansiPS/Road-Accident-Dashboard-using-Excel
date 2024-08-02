@@ -47,28 +47,26 @@ The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meti
 
 When we Examine the Data, we Observe a number of Different Columns.
 
-- Accident Index
-- Accident Date
-- Day of Week
-- Junction Control
-- Junction Details
-- Accident Severity
-- Latitude
-- Light Conditions
-- Local Authority (District)
-- Carriageway Hazards
-- Longitude
-- Number of Casualties
-- Number of Vehicles
-- Police Force
-- Road Surface Conditions
-- Road Type
-- Speed Limit
-- Time
-- Urban or Rural Area
-- Weather Conditions
-- Vehicle Type
-![image](https://github.com/user-attachments/assets/1083878a-a825-417e-b20a-d193b2e10fcb)
+- Accident Index = An Unique Identifier for each Reported Accident.
+- Accident Date = The Date in which the Accident occurred.
+- Day of Week = The Day in which the Accident occurred.
+- Junction Details = Specifics about the Junction Location.
+- Accident Severity = Degree of Impact or Harm caused by the Accident.
+- Latitude = Geographic Latitude of the Accident Location.
+- Light Conditions = Lighting Status at the Time of the Accident.
+- Local Authority (District) = Administrative District where the Accident Occurred.
+- Carriageway Hazards = Obstacles or Dangers on the Road.
+- Longitude = Geographic Longitude of the Accident Location.
+- Number of Casualties = Total Number of Injured Individuals.
+- Number of Vehicles = Count of Vehicles Involved in the Accident.
+- Police Force = The Police Department responding to the Incident.
+- Road Surface Conditions = Quality and State of the Road Surface.
+- Road Type = Classification of the Road.
+- Speed Limit = Maximum allowable Speed at the Accident Location.
+- Time = Exact Time when the Accident Occurred.
+- Urban or Rural Area = Classification of the Area where the Accident Happened.
+- Weather Conditions = Weather Conditions at the Time of the Accident.
+- Vehicle Type = Classification of the Vehicles Involved. 
 
 
 
