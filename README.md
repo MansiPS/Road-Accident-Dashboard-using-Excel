@@ -123,9 +123,8 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 
 # Author   
 
-- https://github.com/MansiPS 
 ![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/user-attachments/assets/918f0183-1331-43d1-8de5-f074326c2cfb)
-
+- https://github.com/MansiPS 
 
 # Lessons Learnt
 
@@ -139,6 +138,7 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 # Acknowledgement
 
 Thank you to Kaggle for providing me this Invaluable Resource, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
+- Kaggle :- https://www.kaggle.com
 
 
 
