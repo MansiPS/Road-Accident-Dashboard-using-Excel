@@ -86,7 +86,10 @@ When we examine the Data, we observe a number of Different Columns.
 - Removed Duplicates
 - And done some more Cleaning.
 
+# Installation : ETL Tools
 
+Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
+- MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
 
 
 
