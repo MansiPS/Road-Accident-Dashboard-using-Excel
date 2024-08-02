@@ -13,7 +13,7 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 # Table of Content
 
-- [Project Goal](#Project-Goal)
+- [Project Goal](#🚀-Project-Goal)
 - [Project Motivation](#Project-Motivation)
 - [Dataset](#Dataset)
 - [Dataset Description](#Dataset-Description)
@@ -149,7 +149,7 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 - 📌 Tableau :- https://public.tableau.com/app/profile/mansi.ps/vizzes
 - 📌 Github :- https://github.com/MansiPS
 
-☀️ # Show your Support
+# ☀️ Show your Support
 
 If you appreciate this Project, please consider awarding it a ⭐
 
