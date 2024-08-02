@@ -15,7 +15,7 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 - [Project Goal](#Project-Goal)
 - [Project Motivation](#Project-Motivation)
-- [Dataset](#⏳Dataset)
+- [Dataset](#Dataset)
 - [Dataset Description](#Dataset-Description)
 - [Requirement](#Requirement)
 - [Data Cleaning](#Data-Cleaning)
@@ -38,11 +38,38 @@ To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, enc
 
 The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
 
-# ⏳Dataset
+# ⏳ Dataset
 
 The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below.
- 
+
+# Dataset Descriprion
+
+When we Examine the Data, we Observe a number of Different Columns.
+
+- Accident Index
+- Accident Date
+- Day of Week
+- Junction Control
+- Junction Details
+- Accident Severity
+- Latitude
+- Light Conditions
+- Local Authority (District)
+- Carriageway Hazards
+- Longitude
+- Number of Casualties
+- Number of Vehicles
+- Police Force
+- Road Surface Conditions
+- Road Type
+- Speed Limit
+- Time
+- Urban or Rural Area
+- Weather Conditions
+- Vehicle Type
+![image](https://github.com/user-attachments/assets/1083878a-a825-417e-b20a-d193b2e10fcb)
+
 
 
 
