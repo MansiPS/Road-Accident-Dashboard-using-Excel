@@ -5,6 +5,6 @@
 
 # Project Title - Road Accident Analysis
 
-- This Repository Offers a Comprehensive Analysis of Road Accident Data. 
+- This Repository offers a Comprehensive Analysis of Road Accident Data. 
 - By Leveraging this Project, we can unveil Valuable Insights and make Informed Decisions.
 
