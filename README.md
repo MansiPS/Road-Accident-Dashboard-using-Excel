@@ -167,11 +167,11 @@ Tableau , Power BI , Looker Studio
 Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy
 
 
-# ☀️ Show your Support
+# ✔️ Show your Support
 
 If you appreciate this Project, please consider awarding it a ⭐
 
-## Feedback
+## 💥 Feedback
 
 If you have any Feedback, please reach out to me at 
 
