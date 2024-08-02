@@ -139,6 +139,14 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 Thank you to Kaggle for providing me this Invaluable Resource, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
 - Kaggle :- https://www.kaggle.com
 
+#  🌟About Me
+
+I am Passionately delving into the realm of Data Analytics, engaging in thorough Learning and Hands-on Projects to refine my skills. As I explore Career Opportunities, I am eager to Transform data into Valuable Insights and contribute to a Dynamic and Innovative Organization.
+
+## Hi, I am Mansi! 👋
+## 🔗Links
+https://www.linkedin.com/in/mansi-p-s-9052a0311  https://public.tableau.com/app/profile/mansi.ps/vizzes  https://github.com/MansiPS
+
 # Show your Support
 
 If you appreciate this Project, please consider awarding it a ⭐
