@@ -94,7 +94,7 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 # My Project
 
-Comprehensive Analyses have been conducted on the Dataset, illustrated through a Variety of Engaging Plots.
+Comprehensive Analyses has been conducted on the Dataset, illustrated through a Variety of Engaging Plots.
 
 ![Screenshot (90)](https://github.com/user-attachments/assets/27905920-bab3-4f5b-a2fb-c3d911216aeb)
 
