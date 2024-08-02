@@ -50,23 +50,42 @@ When we examine the Data, we observe a number of Different Columns.
 - Accident Index : An Unique Identifier for each Reported Accident.
 - Accident Date : The Date in which the Accident occurred.
 - Day of Week : The Day in which the Accident occurred.
-- Junction Details = Specifics about the Junction Location.
-- Accident Severity = Degree of Impact or Harm caused by the Accident.
-- Latitude = Geographic Latitude of the Accident Location.
-- Light Conditions = Lighting Status at the Time of the Accident.
-- Local Authority (District) = Administrative District where the Accident Occurred.
-- Carriageway Hazards = Obstacles or Dangers on the Road.
-- Longitude = Geographic Longitude of the Accident Location.
-- Number of Casualties = Total Number of Injured Individuals.
-- Number of Vehicles = Count of Vehicles Involved in the Accident.
-- Police Force = The Police Department responding to the Incident.
-- Road Surface Conditions = Quality and State of the Road Surface.
-- Road Type = Classification of the Road.
-- Speed Limit = Maximum allowable Speed at the Accident Location.
-- Time = Exact Time when the Accident Occurred.
-- Urban or Rural Area = Classification of the Area where the Accident Happened.
-- Weather Conditions = Weather Conditions at the Time of the Accident.
-- Vehicle Type = Classification of the Vehicles Involved. 
+- Junction Details : Specifics about the Junction Location.
+- Accident Severity : Degree of Impact or Harm caused by the Accident.
+- Latitude : Geographic Latitude of the Accident Location.
+- Light Conditions : Lighting Status at the Time of the Accident.
+- Local Authority (District) : Administrative District where the Accident Occurred.
+- Carriageway Hazards : Obstacles or Dangers on the Road.
+- Longitude : Geographic Longitude of the Accident Location.
+- Number of Casualties : Total Number of Injured Individuals.
+- Number of Vehicles : Count of Vehicles Involved in the Accident.
+- Police Force : The Police Department responding to the Incident.
+- Road Surface Conditions : Quality and State of the Road Surface.
+- Road Type : Classification of the Road.
+- Speed Limit : Maximum allowable Speed at the Accident Location.
+- Time : Exact Time when the Accident Occurred.
+- Urban or Rural Area : Classification of the Area where the Accident Happened.
+- Weather Conditions : Weather Conditions at the Time of the Accident.
+- Vehicle Type : Classification of the Vehicles Involved.
+
+# Requirement
+
+- ✅ The Tttal Casualties taken place after the Accident.
+- ✅ Types of Casualites and its Percentage Distribution 
+- ✅ The total Casualties with respect to the Vehicle type.
+- ✅ The Monthly trend showing Comparisons of Casualties for the Current Year and the Previous Year.
+- ✅ Toal Casualties by the Road Type.
+- ✅ Distribution of total Casualties by the Road Surface.
+- ✅ Total Casualties by Area and by Light Conditions.
+
+
+# Data Cleaning
+
+- Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
+- Changed the Data Types wherever required.
+- Removed Duplicates
+- And done some more Cleaning.
+
 
 
 
