@@ -19,16 +19,16 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 - [Dataset Description](#Dataset-Description)
 - [Requirement](#Requirement)
 - [Data Cleaning](#Data-Cleaning)
-- [Installation : ETL Tools](#Installation-:-ETL-Tools)
+- [Installation : ETL Tools](#Installation)
 - [My Project](#My-Project)
-- Plots used
-- Author
-- Lessons Learnt
-- Acknowledgements
-- About Me
-- Technical Skills
-- Contributors
-- Show your Support
+- [Plots used](#Plots-used)
+- [Author](#Author)
+- [Lessons Learnt](#Lessons-Learnt)
+- [Acknowledgements](#Acknowledgements)
+- [About Me](#About-Me)
+- [Technical Skills](#Technical-Skills)
+- [Contributors](#Contributors)
+- [Show your Support](#Show-your-Support)
 
 # Project Goal
 
@@ -91,6 +91,14 @@ When we examine the Data, we observe a number of Different Columns.
 
 Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
 - MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
+
+# My Project
+
+Comprehensive Analyses have been conducted on the Dataset, illustrated through a Variety of Engaging Plots.
+
+
+
+# Plots used
 
 
 
