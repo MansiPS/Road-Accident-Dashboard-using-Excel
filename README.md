@@ -146,8 +146,26 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 ## Hi, I am Mansi! 👋
 ## 🔗Links
 - 📌 LinkedIn :- https://www.linkedin.com/in/mansi-p-s-9052a0311  
-- 📌 Tableau :- https://public.tableau.com/app/profile/mansi.ps/vizzes
+- 📌 Tableau :- https://public.tableau.com/app/profile/mansi.ps
 - 📌 Github :- https://github.com/MansiPS
+
+## 🛠 Technical Skills
+
+### 🟡Scripting Language -
+Python , Anaconda
+
+### 🟡Data Engineering -
+Exploratory Data analysis
+
+### 🟡Microsoft -
+Excel , Word , Powerpoint
+
+### 🟡Data Visualization -
+Tableau , Power BI , Looker Studio
+
+### 🟡Libraries -
+Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy
+
 
 # ☀️ Show your Support
 
