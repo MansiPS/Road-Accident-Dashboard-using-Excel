@@ -105,6 +105,22 @@ The Operations performed are:
 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
 
+This Illustrates the Analysis within Rural Areas📍.
+![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)
+
+This Illustrates the Analysis within Urban Areas📍.
+![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)
+
+This Illustrates the Analysis within Rural Areas.
+![Screenshot (93)](https://github.com/user-attachments/assets/bc2f13dc-8cbe-409c-ab11-4791a5469eda)
+
+This Illustrates the Analysis within Rural Areas.
+![Screenshot (94)](https://github.com/user-attachments/assets/7957550d-c142-4c6f-89c6-fff7ca476d7a)
+
+This Illustrates the Analysis within Rural Areas.
+![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)
+
+
 
 
 
