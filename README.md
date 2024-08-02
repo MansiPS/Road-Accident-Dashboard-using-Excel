@@ -13,7 +13,7 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 # Table of Content
 
-- Project Goal
+- [Project Goal](#projectgoal)
 - Project Motivation
 - Dataset
 - Dataset - Description
