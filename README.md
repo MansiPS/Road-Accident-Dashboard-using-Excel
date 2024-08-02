@@ -23,10 +23,9 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 - [My Project](#My-Project)
 - [Author](#Author)
 - [Lessons Learnt](#Lessons-Learnt)
-- [Acknowledgements](#Acknowledgements)
+- [Acknowledgement](#Acknowledgement)
 - [About Me](#About-Me)
 - [Technical Skills](#Technical-Skills)
-- [Contributors](#Contributors)
 - [Show your Support](#Show-your-Support)
 
 # Project Goal
@@ -140,8 +139,13 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 Thank you to Kaggle for providing me this Invaluable Resource, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
 - Kaggle :- https://www.kaggle.com
 
+# Show your Support
 
+If you appreciate this Project, please consider awarding it a ⭐
 
+## Feedback
+
+If you have any Feedback, please reach out to me at 
 
 
 
