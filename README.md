@@ -123,10 +123,10 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
 
 # Author   
 
-
-![ezgif-2-2decdb7e9b](https://github.com/user-attachments/assets/8d2e4c6e-9d75-449c-8bc3-2bd1674c9ab1)
-
 - https://github.com/MansiPS 
+![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/user-attachments/assets/918f0183-1331-43d1-8de5-f074326c2cfb)
+
+
 
 
 
