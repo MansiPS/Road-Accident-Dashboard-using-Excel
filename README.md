@@ -104,19 +104,19 @@ The Operations performed are:
 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
 
-This Illustrates the Analysis within Rural Areas📍.
+This Illustrates the Analysis within Rural Areas 📍.
 [![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/8fabba5e25e32a19f5cbb69f3e31e69f7f53ab51/Analysis%201.png)
 
-This Illustrates the Analysis within Urban Areas📍.
+This Illustrates the Analysis within Urban Areas 📍.
 [![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/25e6cc624ba1e04cf1e007bdc45b43225c329d65/Analysis%202.png)
 
-This Illustrates the Analysis for the Accidents Date within 2021 Quarter1📅.
+This Illustrates the Analysis for the Accidents Date within 2021 Quarter1 📅.
 [![Screenshot (93)](https://github.com/user-attachments/assets/bc2f13dc-8cbe-409c-ab11-4791a5469eda)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%203.png)
 
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter3📅.
+This Illustrates the Analysis for the Accidents Date within 2022 Quarter3 📅.
 [![Screenshot (94)](https://github.com/user-attachments/assets/7957550d-c142-4c6f-89c6-fff7ca476d7a)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%204.png)
 
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter4📅.
+This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
 [![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%205.png)
 
 
