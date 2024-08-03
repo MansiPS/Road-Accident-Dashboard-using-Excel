@@ -152,10 +152,10 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 ## 🛠 Technical Skills
 
 ### 🟡Scripting Language -
-Python , Anaconda
+Anaconda
 
 ### 🟡Data Engineering -
-Exploratory Data analysis
+Exploratory Data Analysis
 
 ### 🟡Microsoft -
 Excel , Word , Powerpoint
