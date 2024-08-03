@@ -69,11 +69,11 @@ When we examine the Data, we observe a number of Different Columns.
 
 # Requirement
 
-- ✅ The Tttal Casualties taken place after the Accident.
+- ✅ The Total Casualties taken place after the Accident.
 - ✅ Types of Casualites and its Percentage Distribution 
 - ✅ The total Casualties with respect to the Vehicle type.
 - ✅ The Monthly trend showing Comparisons of Casualties for the Current Year and the Previous Year.
-- ✅ Toal Casualties by the Road Type.
+- ✅ Total Casualties by the Road Type.
 - ✅ Distribution of total Casualties by the Road Surface.
 - ✅ Total Casualties by Area and by Light Conditions.
 
