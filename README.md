@@ -152,16 +152,16 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 ## 🛠 Technical Skills
 
 ### 🟡Scripting Language -
-Anaconda
+Anaconda - Jupyter Notebook
 
 ### 🟡Data Engineering -
 Exploratory Data Analysis
 
 ### 🟡Microsoft -
-Excel , Word , Powerpoint
+Excel, Word, Powerpoint
 
 ### 🟡Data Visualization -
-Tableau , Power BI , Looker Studio
+Tableau, Power BI, Looker Studio
 
 ### 🟡Libraries -
 Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy
