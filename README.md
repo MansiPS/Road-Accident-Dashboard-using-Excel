@@ -152,19 +152,19 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 ## 🛠 Technical Skills
 
 ### 🟡Scripting Language 
- Anaconda-Jupyter Notebook  ![jupyter_app_icon_161280](https://github.com/user-attachments/assets/c1738bc7-2768-4b2c-a198-7cfe89c4d021)
+ Anaconda-Jupyter Notebook  ![jupyter_app_icon_161280](https://github.com/user-attachments/assets/c1738bc7-2768-4b2c-a198-7cfe89c4d021).
 
 ### 🟡Data Engineering 
-Exploratory Data Analysis 📊📈👨🏻‍💻
+Exploratory Data Analysis 📊📈👨🏻‍💻.
 
 ### 🟡Microsoft 
-Excel , Word, Powerpoint
+Excel ![microsoft_office_excel_logo_icon_145720](https://github.com/user-attachments/assets/251e82ea-75a6-411b-8f04-d4193d3d6ad8), Word ![microsoft_office_word_logo_icon_145724](https://github.com/user-attachments/assets/6d9f926c-f907-415b-903b-df074ede347e), Powerpoint ![PowerPoint_2013_23479](https://github.com/user-attachments/assets/1fbc712b-425d-49d4-8c79-d6396622336f).
 
 ### 🟡Data Visualization 
-Tableau, Power BI, Looker Studio
+Tableau ![tableau_logo_icon_144818](https://github.com/user-attachments/assets/32a1b532-bab6-4fa2-b4e4-67fbd0db64f5), Power BI ![data_office_power_bi_logo_microsoft_icon_228487](https://github.com/user-attachments/assets/eba3e7cf-1c94-4ae1-983d-4f98e2072d61), Looker Studio ![unnamed](https://github.com/user-attachments/assets/7c4d4cd4-dd3a-4246-9702-c8bab022ef0b).
 
 ### 🟡Libraries 
-Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy
+Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy.
 
 
 # ✔️ Show your Support
