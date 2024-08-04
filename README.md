@@ -155,10 +155,10 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
  Anaconda-Jupyter Notebook  ![jupyter_app_icon_161280](https://github.com/user-attachments/assets/c1738bc7-2768-4b2c-a198-7cfe89c4d021)
 
 ### 🟡Data Engineering 
-Exploratory Data Analysis
+Exploratory Data Analysis 📊📈👨🏻‍💻
 
 ### 🟡Microsoft 
-Excel, Word, Powerpoint
+Excel , Word, Powerpoint
 
 ### 🟡Data Visualization 
 Tableau, Power BI, Looker Studio
