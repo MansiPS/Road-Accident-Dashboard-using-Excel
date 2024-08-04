@@ -152,7 +152,7 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 ## 🛠 Technical Skills
 
 ### 🟡Scripting Language 
-![jupyter_app_icon_161280](https://github.com/user-attachments/assets/c1738bc7-2768-4b2c-a198-7cfe89c4d021) Anaconda-Jupyter Notebook
+ Anaconda-Jupyter Notebook  ![jupyter_app_icon_161280](https://github.com/user-attachments/assets/c1738bc7-2768-4b2c-a198-7cfe89c4d021)
 
 ### 🟡Data Engineering 
 Exploratory Data Analysis
