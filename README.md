@@ -158,10 +158,10 @@ I am Passionately delving into the realm of Data Analytics, engaging in thorough
 Exploratory Data Analysis 📊📈👨🏻‍💻.
 
 ### 🟡Microsoft 
-Excel ![microsoft_office_excel_logo_icon_145720](https://github.com/user-attachments/assets/251e82ea-75a6-411b-8f04-d4193d3d6ad8), Word ![microsoft_office_word_logo_icon_145724](https://github.com/user-attachments/assets/6d9f926c-f907-415b-903b-df074ede347e), Powerpoint ![PowerPoint_2013_23479](https://github.com/user-attachments/assets/1fbc712b-425d-49d4-8c79-d6396622336f).
+Excel  ![microsoft_office_excel_logo_icon_145720](https://github.com/user-attachments/assets/485d45d4-1327-4007-80c1-77bf3fccbbea) , Word  ![microsoft_office_word_logo_icon_145724](https://github.com/user-attachments/assets/b9087169-06b7-47a6-a315-5549f2d2a82d) , Powerpoint  ![PowerPoint_2013_23479](https://github.com/user-attachments/assets/524ab6f7-7aec-43ee-87a7-05252057b875) .
 
 ### 🟡Data Visualization 
-Tableau ![tableau_logo_icon_144818](https://github.com/user-attachments/assets/32a1b532-bab6-4fa2-b4e4-67fbd0db64f5), Power BI ![data_office_power_bi_logo_microsoft_icon_228487](https://github.com/user-attachments/assets/eba3e7cf-1c94-4ae1-983d-4f98e2072d61), Looker Studio ![unnamed](https://github.com/user-attachments/assets/7c4d4cd4-dd3a-4246-9702-c8bab022ef0b).
+Tableau  ![tableau_logo_icon_144818](https://github.com/user-attachments/assets/5d7d827a-7118-4fdd-a524-7939d8a755a2) , Power BI  ![data_office_power_bi_logo_microsoft_icon_228487](https://github.com/user-attachments/assets/eba3e7cf-1c94-4ae1-983d-4f98e2072d61) , Looker Studio  ![unnamed](https://github.com/user-attachments/assets/7c4d4cd4-dd3a-4246-9702-c8bab022ef0b) .
 
 ### 🟡Libraries 
 Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy.
